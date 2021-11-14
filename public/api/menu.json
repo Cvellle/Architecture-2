@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Početna",
+        "link": "/",
+        "children": []
+    },
+    {
+        "name": "Stanovi",
+        "link": "/stanovi",
+        "children": []
+    },
+    {
+        "name": "Lokacija",
+        "link": "/lokacija",
+        "children": []
+    },
+    {
+        "name": "O nama",
+        "link": "/o-nama",
+        "children": []
+    },
+    {
+        "name": "Kontakt",
+        "link": "/kontakt",
+        "children": []
+    }
+]

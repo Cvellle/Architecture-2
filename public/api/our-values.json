@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Jednosobni",
+        "description": "Objekat čine stanovi različitih struktura, različito raspoređeni po nivoima. Zgrada u ponudi ima konforne garsonjere, jednosobne, dvosobne, trosobne i četvorosobne stabmene jedinice kao i stanove na povučenom spratu",
+        "attributes": [
+            {
+                "name": "Sprat",
+                "option": "Prizemlje"
+            },
+            {
+                "name": "Br. soba",
+                "option": "1"
+            },
+            {
+                "name": "Kvadartura",
+                "option": "35.53"
+            },
+            {
+                "name": "PARKING",
+                "option": "da"
+            }
+        ],
+        "image": "/assets/images/apartment/0.prizemlje/stan5/stan-5.jpg",
+        "position": "left",
+        "url": "stan/5"
+    },
+    {
+        "title": "Dvosobni",
+        "description": "Objekat čine stanovi različitih struktura, različito raspoređeni po nivoima. Zgrada u ponudi ima konforne garsonjere, jednosobne, dvosobne, trosobne i četvorosobne stabmene jedinice kao i stanove na povučenom spratu",
+        "attributes": [
+            {
+                "name": "Sprat",
+                "option": "3"
+            },
+            {
+                "name": "Br. soba",
+                "option": "2"
+            },
+            {
+                "name": "Kvadartura",
+                "option": "49.99"
+            },
+            {
+                "name": "PARKING",
+                "option": "da"
+            }
+        ],
+        "image": "/assets/images/apartment/3.sprat/stan22/stan-22.jpg",
+        "url": "stan/22"
+    },
+    {
+        "title": "Trosobni",
+        "description": "Objekat čine stanovi različitih struktura, različito raspoređeni po nivoima. Zgrada u ponudi ima konforne garsonjere, jednosobne, dvosobne, trosobne i četvorosobne stabmene jedinice kao i stanove na povučenom spratu",
+        "attributes": [
+            {
+                "name": "Sprat",
+                "option": "1"
+            },
+            {
+                "name": "Br. soba",
+                "option": "3"
+            },
+            {
+                "name": "Kvadartura",
+                "option": "67.13"
+            },
+            {
+                "name": "PARKING",
+                "option": "da"
+            }
+        ],
+        "image": "/assets/images/apartment/1.sprat/stan7/stan-7.jpg",
+        "position": "left",
+        "url": "stan/7"
+    },
+    {
+        "title": "Četvorosobni",
+        "description": "Objekat čine stanovi različitih struktura, različito raspoređeni po nivoima. Zgrada u ponudi ima konforne garsonjere, jednosobne, dvosobne, trosobne i četvorosobne stabmene jedinice kao i stanove na povučenom spratu",
+        "attributes": [
+            {
+                "name": "Sprat",
+                "option": "5"
+            },
+            {
+                "name": "Br. soba",
+                "option": "4"
+            },
+            {
+                "name": "Kvadartura",
+                "option": "107.20"
+            },
+            {
+                "name": "PARKING",
+                "option": "da"
+            }
+        ],
+        "image": "/assets/images/apartment/5.sprat/stan37/stan-37.jpg",
+        "url": "stan/37"
+    }
+]
